@@ -1,8 +1,3 @@
-
-
-
-
-
 pip install --upgrade langchain openai -q
 pip install unstructured -q
 pip install unstructured[local-inference] -q
